@@ -4,7 +4,7 @@ feel free to correct it if i have wrong code or explanation
 
 Penjadwalan On Off untuk EDP dengan algoritma genetika
 
-Constrain 
+Constrain <br>
 A dan B tidak boleh tidak masuk barengan
 A dan C tidak boleh tidak masuk barengan
 B harus masuk di hari sabtu
